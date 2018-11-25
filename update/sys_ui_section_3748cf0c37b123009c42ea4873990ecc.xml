@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Department" section_id="3748cf0c37b123009c42ea4873990ecc" sys_domain="global" table="x_285632_employee_emp" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dname</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-16 12:48:24</sys_created_on>
+            <sys_id>744ce53537b123009c42ea4873990e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department" display_value="Department" name="x_285632_employee_emp" sys_domain="global" view="Default view">3748cf0c37b123009c42ea4873990ecc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-16 12:48:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dno</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-16 12:48:24</sys_created_on>
+            <sys_id>3c4ce53537b123009c42ea4873990e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department" display_value="Department" name="x_285632_employee_emp" sys_domain="global" view="Default view">3748cf0c37b123009c42ea4873990ecc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-16 12:48:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dloc</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-16 12:48:24</sys_created_on>
+            <sys_id>bc4ce53537b123009c42ea4873990e55</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Department" display_value="Department" name="x_285632_employee_emp" sys_domain="global" view="Default view">3748cf0c37b123009c42ea4873990ecc</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-16 12:48:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Department</caption>
+            <header>false</header>
+            <name>x_285632_employee_emp</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:01:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3748cf0c37b123009c42ea4873990ecc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Department</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+            <sys_update_name>sys_ui_section_3748cf0c37b123009c42ea4873990ecc</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:01:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

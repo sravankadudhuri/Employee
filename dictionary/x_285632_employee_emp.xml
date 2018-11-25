@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Emp" max_length="40" name="x_285632_employee_emp" type="collection">
+        <element label="phone" max_length="40" name="phone" type="phone_number_e164"/>
+        <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_add" type="string"/>
+        <element label="Age" max_length="40" name="u_age" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Deptloc" max_length="40" name="u_dloc" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Deptname" max_length="40" name="u_dname" reference="x_285632_departmen_dept" type="reference"/>
+        <element label="Deptno" max_length="32" name="u_dno" type="integer"/>
+        <element label="Dob" max_length="40" name="u_dob" type="glide_date"/>
+        <element label="Doj" max_length="40" name="u_doj" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Empname" max_length="40" name="u_empname" type="string"/>
+        <element label="Empno" max_length="40" name="u_empno" type="integer"/>
+        <element label="Experience" max_length="40" name="u_exp" type="integer"/>
+        <element label="Salary" max_length="40" name="u_salary" type="float"/>
+        <index name="index">
+            <element name="u_dno"/>
+        </index>
+    </element>
+</database>

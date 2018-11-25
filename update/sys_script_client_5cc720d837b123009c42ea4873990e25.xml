@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>u_dob</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populate Age</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+
+	// Modified the if to return if the newValue == oldValue to avoid
+	// unecessary trips to the server
+	if (isLoading || newValue === '' || newValue == oldValue) {
+		return;
+	}
+
+	var ga = new GlideAjax('GetAge');
+	var d=g_form.getValue('u_dob');
+	ga.addParam('sysparm_name','getAge');
+    ga.addParam('sysparm_u_dob',d); 
+	
+	ga.getXML(HelloWorldParse);
+	function HelloWorldParse(response) {  
+   var a = response.responseXML.documentElement.getAttribute("answer"); 
+    var days=parseInt(a,10);
+		var years=days/365;
+		years=years.toPrecision(2);
+		
+		g_form.setValue('u_age',years);
+	}
+
+	
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-11 16:07:10</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5cc720d837b123009c42ea4873990e25</sys_id>
+        <sys_mod_count>18</sys_mod_count>
+        <sys_name>Populate Age</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>sys_script_client_5cc720d837b123009c42ea4873990e25</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-16 11:20:43</sys_updated_on>
+        <table>x_285632_employee_emp</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description>client script to populate deptloc</description>
+        <field>u_dname</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populate Deptloc</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+   if (isLoading || newValue === '') {
+      return;
+   }
+	   var ga=new GlideAjax('GetDloc');
+	var d=g_form.getValue('u_dname');
+	ga.addParam('sysparm_name','getDloc');
+    ga.addParam('sysparm_u_dname',d); 
+    ga.getXML(HelloWorldParse);
+	function HelloWorldParse(response) {  
+   var a = response.responseXML.documentElement.getAttribute("answer"); 
+    g_form.setValue('u_dloc',a);
+   
+	}
+   //Type appropriate comment here, and begin script below
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-16 12:56:02</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f08d657537b123009c42ea4873990e52</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Populate Deptloc</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>sys_script_client_f08d657537b123009c42ea4873990e52</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-16 12:56:57</sys_updated_on>
+        <table>x_285632_employee_emp</table>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

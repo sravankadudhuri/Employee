@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Employee" section_id="3637470c37b123009c42ea4873990e1c" sys_domain="global" table="x_285632_employee_emp" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_empno</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>6eff478037f123009c42ea4873990e9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_empname</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>eeff478037f123009c42ea4873990e9d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_email</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>62ff478037f123009c42ea4873990e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>e2ff478037f123009c42ea4873990e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_salary</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>66ff478037f123009c42ea4873990e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dob</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>e6ff478037f123009c42ea4873990e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_age</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>6aff478037f123009c42ea4873990e9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_doj</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>62ff878037f123009c42ea4873990e1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exp</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>e2ff878037f123009c42ea4873990e1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_add</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 09:34:42</sys_created_on>
+            <sys_id>66ff878037f123009c42ea4873990e1b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Employee</caption>
+            <header>false</header>
+            <name>x_285632_employee_emp</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-11-11 08:56:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3637470c37b123009c42ea4873990e1c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Employee</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+            <sys_update_name>sys_ui_section_3637470c37b123009c42ea4873990e1c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-11-11 09:01:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
