@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Empcsv data" max_length="40" name="x_285632_employee_empcsv_data" type="collection">
+        <element attributes="import_attribute_name=Address,edge_encryption_enabled=true" label="Address" max_length="40" name="u_address" type="string"/>
+        <element attributes="import_attribute_name=Deptname,edge_encryption_enabled=true" label="Deptname" max_length="40" name="u_deptname" type="string"/>
+        <element attributes="import_attribute_name=DOB,edge_encryption_enabled=true" label="DOB" max_length="40" name="u_dob" type="string"/>
+        <element attributes="import_attribute_name=DOJ,edge_encryption_enabled=true" label="DOJ" max_length="40" name="u_doj" type="string"/>
+        <element attributes="import_attribute_name=Email,edge_encryption_enabled=true" label="Email" max_length="40" name="u_email" type="string"/>
+        <element attributes="import_attribute_name=Empname,edge_encryption_enabled=true" label="Empname" max_length="40" name="u_empname" type="string"/>
+        <element attributes="import_attribute_name=Empno,edge_encryption_enabled=true" label="Empno" max_length="40" name="u_empno" type="string"/>
+        <element attributes="import_attribute_name=Salary,edge_encryption_enabled=true" label="Salary" max_length="40" name="u_salary" type="string"/>
+    </element>
+</database>
