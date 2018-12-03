@@ -12,8 +12,19 @@
         <element attributes="edge_encryption_enabled=true" label="Empname" max_length="40" name="u_empname" type="string"/>
         <element label="Empno" max_length="40" name="u_empno" type="integer"/>
         <element label="Experience" max_length="40" name="u_exp" type="integer"/>
+        <element label="Requested For" max_length="32" name="u_request" reference="sys_user" reference_qual="u_mdeptSTARTSWITH^EQ" reference_qual_condition="u_mdeptSTARTSWITH^EQ" type="reference"/>
         <element label="Salary" max_length="40" name="u_salary" type="float"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Status" max_length="40" name="u_status" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Awaiting Approval" sequence="0" value="await"/>
+                <element inactive_on_update="false" label="Approved" sequence="1" value="app"/>
+                <element inactive_on_update="false" label="Request Closed" sequence="2" value="rc"/>
+            </choice>
+        </element>
         <index name="index">
+            <element name="u_request"/>
+        </index>
+        <index name="index2">
             <element name="u_dno"/>
         </index>
     </element>
