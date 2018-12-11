@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysevent_email_template">
+    <sysevent_email_template action="INSERT_OR_UPDATE">
+        <collection>x_285632_employee_emp</collection>
+        <email_layout/>
+        <message/>
+        <message_html><![CDATA[<p>Click here to close Emp ${number} record status</p>]]></message_html>
+        <message_list/>
+        <message_text/>
+        <name>ReplyMail</name>
+        <sms_alternate/>
+        <subject>Re: ${number} - please close Emp record status</subject>
+        <sys_class_name>sysevent_email_template</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-06 11:47:49</sys_created_on>
+        <sys_id>c56dd418379223009c42ea4873990ee7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>ReplyMail</sys_name>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>sysevent_email_template_c56dd418379223009c42ea4873990ee7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-06 11:47:49</sys_updated_on>
+        <sys_version>2</sys_version>
+    </sysevent_email_template>
+</record_update>

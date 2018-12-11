@@ -25,7 +25,7 @@
    var a = response.responseXML.documentElement.getAttribute("answer"); 
     var days=parseInt(a,10);
 		var years=days/365;
-		years=years.toPrecision(2);
+		years=years.toPrecision(1);
 	   g_form.setValue('u_exp',years);
 			
 		  
@@ -37,7 +37,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>4e5855f5377123009c42ea4873990e63</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Populate Experience</sys_name>
         <sys_overrides/>
         <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
@@ -45,7 +45,7 @@
         <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
         <sys_update_name>sys_script_client_4e5855f5377123009c42ea4873990e63</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-16 11:24:35</sys_updated_on>
+        <sys_updated_on>2018-12-10 09:35:18</sys_updated_on>
         <table>x_285632_employee_emp</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

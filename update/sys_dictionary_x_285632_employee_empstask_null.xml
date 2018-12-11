@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_285632_employee_emp">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" extends="task" table="x_285632_employee_empstask">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -35,7 +35,7 @@
         <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_285632_employee_emp</name>
+        <name>x_285632_employee_empstask</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -52,16 +52,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2018-11-11 08:55:50</sys_created_on>
-        <sys_id>5d17830c37b123009c42ea4873990e92</sys_id>
+        <sys_created_on>2018-12-06 11:40:32</sys_created_on>
+        <sys_id>3d8c9cd4379223009c42ea4873990e64</sys_id>
         <sys_mod_count>1</sys_mod_count>
-        <sys_name>x_285632_employee_emp</sys_name>
+        <sys_name>x_285632_employee_empstask</sys_name>
         <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
-        <sys_update_name>sys_dictionary_x_285632_employee_emp_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_285632_employee_empstask_null</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-06 12:05:52</sys_updated_on>
+        <sys_updated_on>2018-12-06 11:41:24</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

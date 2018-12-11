@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="pa_dashboards_permissions">
+    <pa_dashboards_permissions action="INSERT_OR_UPDATE">
+        <dashboard display_value="Emp Application">14e6fe31375223009c42ea4873990e93</dashboard>
+        <delete>false</delete>
+        <group/>
+        <identity>4040374c371223009c42ea4873990ef7</identity>
+        <read>true</read>
+        <role/>
+        <sys_class_name>pa_dashboards_permissions</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-11 14:54:04</sys_created_on>
+        <sys_id>29c8f2b1375223009c42ea4873990ea2</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>4040374c371223009c42ea4873990ef7</sys_name>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>pa_dashboards_permissions_29c8f2b1375223009c42ea4873990ea2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-11 14:59:09</sys_updated_on>
+        <type>3</type>
+        <user display_value="sravan kumar">4040374c371223009c42ea4873990ef7</user>
+        <write>true</write>
+    </pa_dashboards_permissions>
+</record_update>

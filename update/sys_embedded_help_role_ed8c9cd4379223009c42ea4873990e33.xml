@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_285632_employee.empstask_user" name="x_285632_employee.empstask_user">a58c1cd4379223009c42ea4873990e65</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-06 11:40:32</sys_created_on>
+        <sys_id>ed8c9cd4379223009c42ea4873990e33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>a58c1cd4379223009c42ea4873990e65</sys_name>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ed8c9cd4379223009c42ea4873990e33</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-06 11:40:32</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

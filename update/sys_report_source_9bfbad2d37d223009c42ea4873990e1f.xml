@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>Awaiting Emp Requests (Emp)</display>
+        <filter table="x_285632_employee_emp">u_status=await<item endquery="false" field="u_status" goto="false" newquery="false" operator="=" or="false" value="await"/>
+        </filter>
+        <name>Awaiting Emp Requests</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 14:40:51</sys_created_on>
+        <sys_id>9bfbad2d37d223009c42ea4873990e1f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Awaiting Emp Requests (Emp)</sys_name>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>sys_report_source_9bfbad2d37d223009c42ea4873990e1f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 14:40:51</sys_updated_on>
+        <table>x_285632_employee_emp</table>
+    </sys_report_source>
+</record_update>
