@@ -6,7 +6,7 @@
         <element attributes="edge_encryption_enabled=true" label="Address" max_length="40" name="u_add" type="string"/>
         <element label="Age" max_length="40" name="u_age" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="Deptloc" max_length="40" name="u_dloc" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="Deptname" max_length="40" name="u_dname" reference="x_285632_departmen_dept" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Deptname" max_length="40" name="u_dname" reference="x_285632_departmen_dept" type="reference" use_dependent_field="true"/>
         <element label="Deptno" max_length="32" name="u_dno" type="integer"/>
         <element label="Dob" max_length="40" name="u_dob" type="glide_date"/>
         <element label="Doj" max_length="40" name="u_doj" type="glide_date"/>

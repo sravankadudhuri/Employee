@@ -3,7 +3,7 @@
         <active>true</active>
         <applies_extended>false</applies_extended>
         <condition/>
-        <description>client script to populate dept name</description>
+        <description>client script to populate dept number</description>
         <field>u_dname</field>
         <global>true</global>
         <isolate_script>true</isolate_script>
@@ -32,7 +32,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>acaad939377123009c42ea4873990e95</sys_id>
-        <sys_mod_count>5</sys_mod_count>
+        <sys_mod_count>6</sys_mod_count>
         <sys_name>Populate DeptNum</sys_name>
         <sys_overrides/>
         <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
@@ -40,7 +40,7 @@
         <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
         <sys_update_name>sys_script_client_acaad939377123009c42ea4873990e95</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-11-16 13:05:41</sys_updated_on>
+        <sys_updated_on>2018-12-16 12:44:00</sys_updated_on>
         <table>x_285632_employee_emp</table>
         <type>onChange</type>
         <ui_type>10</ui_type>
