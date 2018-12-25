@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ws_definition">
+    <sys_ws_definition action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <base_uri>/api/x_285632_employee/emp_api</base_uri>
+        <consumes>application/json</consumes>
+        <consumes_customized>true</consumes_customized>
+        <default_version>No active default version</default_version>
+        <doc_link>https://dev55021.service-now.com/x_285632_employee_emp_api_docs.do</doc_link>
+        <enforce_acl>cf9d01d3e73003009d6247e603f6a990</enforce_acl>
+        <is_versioned>false</is_versioned>
+        <name>Emp Api</name>
+        <namespace>x_285632_employee</namespace>
+        <produces>application/json,application/xml,text/xml</produces>
+        <produces_customized>false</produces_customized>
+        <service_id>emp_api</service_id>
+        <short_description>Docs for Emp API</short_description>
+        <sys_class_name>sys_ws_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-25 09:48:41</sys_created_on>
+        <sys_id>b309751237aa23009c42ea4873990ec7</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Emp Api</sys_name>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>sys_ws_definition_b309751237aa23009c42ea4873990ec7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-25 09:54:06</sys_updated_on>
+    </sys_ws_definition>
+</record_update>
