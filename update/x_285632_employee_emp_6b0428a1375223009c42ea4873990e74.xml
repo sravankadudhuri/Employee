@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_285632_employee_emp">
+    <x_285632_employee_emp action="INSERT_OR_UPDATE">
+        <complete/>
+        <phone/>
+        <sys_class_name>x_285632_employee_emp</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 09:26:55</sys_created_on>
+        <sys_id>6b0428a1375223009c42ea4873990e74</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>x_285632_employee_emp_6b0428a1375223009c42ea4873990e74</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 09:26:55</sys_updated_on>
+        <target/>
+        <u_add>vvnagar madhapur Hyderabad</u_add>
+        <u_age>30</u_age>
+        <u_dloc>BANGALORE</u_dloc>
+        <u_dname/>
+        <u_dno>100</u_dno>
+        <u_dob>1988-11-04</u_dob>
+        <u_doj>2017-12-04</u_doj>
+        <u_email>vinay kumar@gmail.com</u_email>
+        <u_empname>vinay kumar</u_empname>
+        <u_empno>100</u_empno>
+        <u_exp>1</u_exp>
+        <u_request display_value="sravan kumar">4040374c371223009c42ea4873990ef7</u_request>
+        <u_salary>15000</u_salary>
+        <u_status>await</u_status>
+    </x_285632_employee_emp>
+</record_update>

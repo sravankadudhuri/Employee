@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_285632_employee_emp">
+    <x_285632_employee_emp action="INSERT_OR_UPDATE">
+        <complete/>
+        <phone/>
+        <sys_class_name>x_285632_employee_emp</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-26 04:09:14</sys_created_on>
+        <sys_id>b105716e376263009c42ea4873990e16</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>x_285632_employee_emp_b105716e376263009c42ea4873990e16</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-26 04:09:14</sys_updated_on>
+        <target/>
+        <u_add>chennai Tamil Nadu</u_add>
+        <u_age/>
+        <u_dloc/>
+        <u_dname/>
+        <u_dno/>
+        <u_dob/>
+        <u_doj>0018-03-30</u_doj>
+        <u_email/>
+        <u_empname>vinoth kumar</u_empname>
+        <u_empno>201</u_empno>
+        <u_exp>11</u_exp>
+        <u_request/>
+        <u_salary>15000</u_salary>
+        <u_status>await</u_status>
+    </x_285632_employee_emp>
+</record_update>

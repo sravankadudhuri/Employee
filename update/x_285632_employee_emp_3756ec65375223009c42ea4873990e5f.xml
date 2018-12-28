@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_285632_employee_emp">
+    <x_285632_employee_emp action="INSERT_OR_UPDATE">
+        <complete/>
+        <phone/>
+        <sys_class_name>x_285632_employee_emp</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-10 09:37:10</sys_created_on>
+        <sys_id>3756ec65375223009c42ea4873990e5f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>x_285632_employee_emp_3756ec65375223009c42ea4873990e5f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-10 09:37:10</sys_updated_on>
+        <target/>
+        <u_add>Bijapur Chattigarh</u_add>
+        <u_age>38</u_age>
+        <u_dloc>SHOLAPUR</u_dloc>
+        <u_dname/>
+        <u_dno>400</u_dno>
+        <u_dob>1980-11-04</u_dob>
+        <u_doj>2013-12-04</u_doj>
+        <u_email>ashish sangwan @gmail.com</u_email>
+        <u_empname>ashish sangwan </u_empname>
+        <u_empno>104</u_empno>
+        <u_exp>5</u_exp>
+        <u_request display_value="Fred Luddy">5137153cc611227c000bbd1bd8cd2005</u_request>
+        <u_salary>25000</u_salary>
+        <u_status>await</u_status>
+    </x_285632_employee_emp>
+</record_update>

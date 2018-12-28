@@ -10,24 +10,25 @@
         <operation_script><![CDATA[(function process(/*RESTAPIRequest*/ request, /*RESTAPIResponse*/ response) {
 
     // implement resource here
-	var requestUser = request.pathParams.user_name;
-	var requestEmpQuery = request.queryParams.emp_query;
-	var requestUserName = new GlideRecord('sys_user');
-    requestUserName.get('user_name',requestUser);
-    var empcount=new GlideAggregate("x_285632_employee_emp");
-	empcount.addAggregate('COUNT');
-	empcount.addEncodedQuery(requestEmpQuery);
-	empcount.query();
-	var emprecs=[];
-	while(empcount.next())
+	var gr =new GlideRecord('x_285632_employee_emp');
+	limit=100;
+	arr=[];
+	gr.setLimit(limit);
+	gr.query();
+	while(gr.next())
 		{
-			var empname=empcount.u_empname.getDisplayValue();
-			emprecs.push({"Emp name": empname});
+			var val={};
+			val.empno=gr.u_empno + '';
+			val.empname=gr.u_empname + '';
+			val.deptname=gr.u_dname + '';
+			val.deptno=gr.u_dno + '';
+			val.deptloc=gr.u_dloc + '';			
+			
+			arr.push(val);
+			
 		}
-    var body={};
-	body.user = {"User name": requestUserName.user_name,
-    "User ID": requestUserName.sys_id};
-	response.setBody(body);
+	return arr;
+	
 
 
 })(request, response);]]></operation_script>
@@ -44,14 +45,14 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-12-25 11:07:12</sys_created_on>
         <sys_id>34e9469a37aa23009c42ea4873990e69</sys_id>
-        <sys_mod_count>7</sys_mod_count>
+        <sys_mod_count>15</sys_mod_count>
         <sys_name>emp_getnfo</sys_name>
         <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
         <sys_policy/>
         <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
         <sys_update_name>sys_ws_operation_34e9469a37aa23009c42ea4873990e69</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-12-25 15:59:11</sys_updated_on>
+        <sys_updated_on>2018-12-26 05:14:52</sys_updated_on>
         <web_service_definition display_value="Emp Api">b309751237aa23009c42ea4873990ec7</web_service_definition>
         <web_service_version/>
     </sys_ws_operation>

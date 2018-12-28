@@ -4,6 +4,20 @@
             <element>u_empno</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>c8c6db7e37ae63009c42ea4873990eb8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_empno</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>d6826a75371223009c42ea4873990ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -11,6 +25,20 @@
             <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_empname</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>40c6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,6 +60,20 @@
             <element>u_email</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>c0c6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_email</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>da826a75371223009c42ea4873990ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -39,6 +81,20 @@
             <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>phone</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>44c6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -60,6 +116,20 @@
             <element>u_salary</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>c4c6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_salary</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>de826a75371223009c42ea4873990ebd</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -67,6 +137,20 @@
             <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dob</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>48c6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,6 +172,20 @@
             <element>u_age</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>c8c6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_age</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>d2826a75371223009c42ea4873990ebe</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -95,6 +193,20 @@
             <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_doj</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>4cc6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -116,6 +228,20 @@
             <element>u_exp</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>ccc6db7e37ae63009c42ea4873990eb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_exp</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>d6826a75371223009c42ea4873990ebe</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -123,6 +249,20 @@
             <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_add</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>40c6db7e37ae63009c42ea4873990eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -144,6 +284,20 @@
             <element>u_request</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>c0c6db7e37ae63009c42ea4873990eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_request</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>da826a75371223009c42ea4873990ebe</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -151,6 +305,20 @@
             <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>44c6db7e37ae63009c42ea4873990eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -172,6 +340,20 @@
             <element>u_status</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>c4c6db7e37ae63009c42ea4873990eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_status</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>de826a75371223009c42ea4873990ebe</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -179,6 +361,20 @@
             <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>complete</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>48c6db7e37ae63009c42ea4873990eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -200,6 +396,20 @@
             <element>target</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>c8c6db7e37ae63009c42ea4873990eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>target</element>
+            <position>14</position>
+            <sys_created_by>admin</sys_created_by>
             <sys_created_on>2018-12-11 13:16:55</sys_created_on>
             <sys_id>d2826a75371223009c42ea4873990ebf</sys_id>
             <sys_mod_count>0</sys_mod_count>
@@ -209,6 +419,20 @@
             <sys_updated_on>2018-12-11 13:16:55</sys_updated_on>
             <sys_user/>
             <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>56826a75371223009c42ea4873990eb6</element>
+            <position>15</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-12-27 05:54:41</sys_created_on>
+            <sys_id>4cc6db7e37ae63009c42ea4873990eba</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Employee" display_value="Employee" name="x_285632_employee_emp" sys_domain="global" view="Default view">3637470c37b123009c42ea4873990e1c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-12-27 05:54:41</sys_updated_on>
+            <sys_user/>
+            <type>chart</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>56826a75371223009c42ea4873990eb6</element>

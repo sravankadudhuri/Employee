@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_285632_employee_emp">
+    <x_285632_employee_emp action="INSERT_OR_UPDATE">
+        <complete>26</complete>
+        <phone/>
+        <sys_class_name>x_285632_employee_emp</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 13:04:30</sys_created_on>
+        <sys_id>58f8ebc2371223009c42ea4873990eda</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>x_285632_employee_emp_58f8ebc2371223009c42ea4873990eda</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 13:04:30</sys_updated_on>
+        <target>45</target>
+        <u_add>Mumbai Maharashtra</u_add>
+        <u_age>54</u_age>
+        <u_dloc>CHENNAI</u_dloc>
+        <u_dname/>
+        <u_dno>500</u_dno>
+        <u_dob>1965-01-26</u_dob>
+        <u_doj>2016-12-04</u_doj>
+        <u_email>Vinay Narwal@gmail.com</u_email>
+        <u_empname>Vinay Narwal</u_empname>
+        <u_empno>114</u_empno>
+        <u_exp>2</u_exp>
+        <u_request display_value="vinay kumar">6d14143b373123009c42ea4873990e70</u_request>
+        <u_salary>20000</u_salary>
+        <u_status>await</u_status>
+    </x_285632_employee_emp>
+</record_update>

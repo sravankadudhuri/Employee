@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_285632_employee_emp">
+    <x_285632_employee_emp action="INSERT_OR_UPDATE">
+        <complete>23</complete>
+        <phone/>
+        <sys_class_name>x_285632_employee_emp</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-12 13:06:53</sys_created_on>
+        <sys_id>89996bc2371223009c42ea4873990e83</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Employee" source="x_285632_employee">ef24c6c0373123009c42ea4873990e25</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Employee">ef24c6c0373123009c42ea4873990e25</sys_scope>
+        <sys_update_name>x_285632_employee_emp_89996bc2371223009c42ea4873990e83</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-12 13:06:53</sys_updated_on>
+        <target>69</target>
+        <u_add>vvnagar Mumbai Lonavala</u_add>
+        <u_age>30</u_age>
+        <u_dloc>SHOLAPUR</u_dloc>
+        <u_dname/>
+        <u_dno>400</u_dno>
+        <u_dob>1988-11-04</u_dob>
+        <u_doj>2015-07-04</u_doj>
+        <u_email>ishika@gmail.com</u_email>
+        <u_empname>ishika</u_empname>
+        <u_empno>115</u_empno>
+        <u_exp>3</u_exp>
+        <u_request display_value="sravan kumar">4040374c371223009c42ea4873990ef7</u_request>
+        <u_salary>17500</u_salary>
+        <u_status>await</u_status>
+    </x_285632_employee_emp>
+</record_update>
